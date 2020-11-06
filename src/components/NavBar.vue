@@ -1,12 +1,10 @@
 <template>
-  <div>
-   test
-  </div>  
+  <nav></nav>
 </template>
 
 <script>
   export default {
-    name: "DashBoard",
+    name: "NavBar",
     props: {},
     data() {
       return {};

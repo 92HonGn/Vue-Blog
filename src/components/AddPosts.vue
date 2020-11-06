@@ -1,6 +1,7 @@
 <template>
   <div class="add-posts">
     <div class="mb-3">
+      <div class="test">lol</div>
       <input type="text"
              class="form-control"
              placeholder="文章標題">
@@ -23,4 +24,7 @@
 </script>
 
 <style scoped>
+.test{
+  color: var(--bs-blue);
+}
 </style>
